@@ -1,0 +1,9 @@
+#cards_img {
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    border: 1px solid purple;
+}
+#presentacion_box img{
+    width: 50%;
+}

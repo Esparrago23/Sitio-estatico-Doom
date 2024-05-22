@@ -1,0 +1,16 @@
+#cards_box p{
+    width: 80%;
+    height: 10%;
+    border: 2px solid rgb(231, 54, 54);
+    border-radius: 10px;
+    color:white;
+    padding: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    font-size:200%;
+}
+#presentacion_box p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:red;
+    font-size:400%;
+}

@@ -1,0 +1,7 @@
+#navbar_box{
+    width: 100%;
+    height: 9vh;
+    display: flex;
+    flex-direction: row-reverse;
+    
+}

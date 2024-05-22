@@ -1,0 +1,12 @@
+#cards_box{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+#cards_box img {
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    border: 1px solid purple;
+}
